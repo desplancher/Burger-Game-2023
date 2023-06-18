@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8a8fd44c83581b4788a7a31b95603df, type: 3}
+  m_Name: ReceitaCQA
+  m_EditorClassIdentifier: 
+  nome: ReceitaCQA
+  prefabIngrediente:
+  - {fileID: 3126879941909506570, guid: 629be2f8416d0824e8ecb3765e225cd4, type: 3}
+  - {fileID: 705719891757841900, guid: 455d5d0d4e29bc648b9d73d545d74570, type: 3}
+  - {fileID: 1570349314446829130, guid: b9824f005175a3c4b85d4472421e32fe, type: 3}
+  - {fileID: 1488052277524828553, guid: 3eabc53e9f4265748ad95dbdd0fa8d69, type: 3}
+  - {fileID: 8185483603921072142, guid: fd274f326cc3cb541af4791131b0b1b5, type: 3}
+  tagReceita: tagBasePaotagCarnetagQueijotagAlfacetagTopoPaotagBasePaotagCarnetagQueijotagAlfacetagTopoPaotagBasePaotagCarnetagQueijotagAlfacetagTopoPaotagBasePaotagCarnetagQueijotagAlfacetagBasePaotagCarnetagQueijotagAlfacetagBasePaotagCarnetagQueijotagAlface
